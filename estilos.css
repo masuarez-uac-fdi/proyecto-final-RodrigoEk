@@ -1,0 +1,42 @@
+.parrafo1{
+	color:black;
+	background-color: #E6E6E6;
+  padding: 20px;
+}
+
+.parrafo2{
+  color:black;
+  background-color: white;
+}
+
+.TituloParrafo{
+  color: black;
+  background;
+  font-size:20px;
+}
+
+
+
+
+.container {
+  display: flex;
+  justify-content: center;
+
+}
+.example {
+  justify-content: flex-start;
+  
+  width: 800px;
+  margin: 50px 0;
+}
+.item-fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.posicionpf{
+  justify-content: center;
+  position: static;
+  align-items: center;
+}
